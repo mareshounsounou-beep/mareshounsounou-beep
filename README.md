@@ -1,51 +1,116 @@
-# Hi there, I'm Mareshounsounou! 👋
+# Salut, je suis Mareshounsounou! 👋
 
-Welcome to my GitHub profile! I'm passionate about building great software and contributing to the open-source community.
+Bienvenue sur mon profil GitHub! Je suis un développeur passionné par la création de solutions logicielles innovantes et la contribution à la communauté open-source.
 
-## 🚀 About Me
+## 🚀 À Propos de Moi
 
-I'm a developer with a keen interest in clean code, innovative solutions, and collaborative development. I enjoy working on projects that solve real-world problems and learning from the amazing developer community.
+Je suis un développeur expérimenté avec une forte passion pour le code propre, les solutions créatives et le développement collaboratif. J'aime travailler sur des projets qui résolvent des problèmes concrets et apprendre de la remarquable communauté de développeurs mondiale.
 
-## 💻 Technical Skills
+- 💡 Créatif et innovant dans la résolution de problèmes
+- 🎯 Orienté vers les objectifs et la qualité
+- 🤝 Adepte du travail d'équipe et de la collaboration
+- 📚 Apprenant continu et curieux des nouvelles technologies
 
-- **Languages**: JavaScript, Python, TypeScript, and more
-- **Frontend**: React, Vue.js, HTML/CSS
-- **Backend**: Node.js, Python frameworks
-- **Tools & Platforms**: Git, Docker, GitHub Actions, REST APIs
-- **Databases**: SQL, NoSQL, database design
+## 💻 Compétences Techniques
 
-## 📌 Featured Projects
+### Langages de Programmation
+```
+JavaScript • TypeScript • Python • Java • SQL
+```
 
-- [claude-code](https://github.com/anthropics/claude-code) - A collaborative project in the anthropics ecosystem
-- *More projects coming soon!*
+### Frontend
+```
+React • Vue.js • HTML5 • CSS3 • Responsive Design
+```
 
-## 🌱 Currently Learning
+### Backend
+```
+Node.js • Express • REST APIs • Microservices
+```
 
-- Advanced system design patterns
-- Cloud architecture and deployment strategies
-- Emerging technologies and frameworks
+### DevOps & Outils
+```
+Git • GitHub • Docker • CI/CD • GitHub Actions
+```
 
-## 💡 Open to Collaboration
+### Bases de Données
+```
+PostgreSQL • MongoDB • MySQL • Firebase
+```
 
-I'm always interested in:
-- Contributing to open-source projects
-- Collaborating on innovative ideas
-- Knowledge sharing and mentoring
-- Building meaningful software solutions
+## 📌 Projets en Vedette
 
-## 📊 GitHub Stats
+### 🌟 claude-code
+Une collaboration dans l'écosystème Anthropics axée sur l'intégration et l'innovation.
+- **Repo**: [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- **Focus**: Solutions intelligentes et automatisées
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshounsounou-beep&show_icons=true&theme=radical)
+### 💼 Mes Projets Personnels
+Explorez mes autres projets et contributions sur mon profil!
 
-## 🔗 Connect With Me
+## 🌱 Actuellement en Apprentissage
+
+- 🔬 Patterns avancés de conception système
+- ☁️ Architecture cloud et stratégies de déploiement
+- 🤖 Technologies émergentes et frameworks innovants
+- 🧠 Intelligence Artificielle et Machine Learning
+
+## 🎯 Domaines d'Expertise
+
+- ✅ Développement Full Stack
+- ✅ Architecture logicielle scalable
+- ✅ Optimisation de performance
+- ✅ Meilleures pratiques de codage
+- ✅ Gestion de projets techniques
+
+## 💡 Disponible pour Collaborer
+
+Je suis toujours enthousiaste à propos de:
+- 🔓 Contribuer à des projets open-source
+- 🤝 Collaborer sur des idées innovantes
+- 💭 Partage de connaissances et mentorat
+- 🏗️ Construire des solutions logicielles significatives
+- 🚀 Nouveaux défis technologiques
+
+## 📊 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mareshounsounou-beep&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshounsounou-beep&layout=compact&theme=radical&hide_border=true)
+
+## 🔗 Me Contacter
 
 - **GitHub**: [@mareshounsounou-beep](https://github.com/mareshounsounou-beep)
-- *Add your social links and contact info*
+- **Email**: mareshounsounou@gmail.com
+- **Location**: 🌍 Connecté globalement
 
-## 💬 Let's Talk!
+## 🏆 Philosophie & Valeurs
 
-Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hello! I'm always open to new opportunities and conversations.
+> "Le code n'est pas seulement pour les machines, c'est pour les humains qui le maintiennent."
+
+Je crois en:
+- 📖 L'importance du code lisible et documenté
+- 🔄 L'amélioration continue et l'itération
+- 👥 La collaboration et l'entraide
+- 🎓 La connaissance partagée et l'apprentissage pair
+
+## 💬 Parlons!
+
+N'hésitez pas à me contacter si vous voulez:
+- 🤝 Collaborer sur un projet
+- 💻 Discuter de technologie et de développement
+- 📧 Simplement me saluer!
+
+Je suis toujours ouvert aux nouvelles opportunités et aux conversations enrichissantes.
 
 ---
 
-⭐ If you find my projects interesting, consider giving them a star! Your support means a lot. 🙏
+<div align="center">
+
+### ⭐ Si mes projets vous intéressent, n'hésitez pas à leur donner une étoile! 🙏
+
+**Merci de visiter mon profil. Happy Coding!** 🚀
+
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=mareshounsounou-beep.mareshounsounou-beep)](https://github.com/mareshounsounou-beep)
+
+</div>
