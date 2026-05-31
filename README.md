@@ -1,116 +1,131 @@
-# Salut, je suis Mareshounsounou! 👋
+# 👋 Bienvenue sur mon Profil!
 
-Bienvenue sur mon profil GitHub! Je suis un développeur passionné par la création de solutions logicielles innovantes et la contribution à la communauté open-source.
+Je suis **Mareshounsounou**, Spécialiste en Recrutement & Développeur Passionné 🚀
 
-## 🚀 À Propos de Moi
+---
 
-Je suis un développeur expérimenté avec une forte passion pour le code propre, les solutions créatives et le développement collaboratif. J'aime travailler sur des projets qui résolvent des problèmes concrets et apprendre de la remarquable communauté de développeurs mondiale.
+## 🎯 Qui Suis-Je?
 
-- 💡 Créatif et innovant dans la résolution de problèmes
-- 🎯 Orienté vers les objectifs et la qualité
-- 🤝 Adepte du travail d'équipe et de la collaboration
-- 📚 Apprenant continu et curieux des nouvelles technologies
+Spécialiste chargé de recrutement **très dynamique** avec une passion pour la technologie et l'innovation. Je combine l'expertise en gestion des talents avec une compréhension profonde de l'écosystème tech.
 
-## 💻 Compétences Techniques
+- 💼 **Expertise**: Recrutement IT, Talent Acquisition, HR Tech
+- 🔧 **Compétences Tech**: Développement, Automatisation, Outils RH
+- 🌍 **Approche**: Collaborative, Orientée résultats, Innovante
+- 📧 **Contact**: [mareshounsounou@gmail.com](mailto:mareshounsounou@gmail.com)
 
-### Langages de Programmation
+---
+
+## 💡 Ma Spécialité
+
+### 🎯 Recrutement & Talent Acquisition
+- ✅ Sourcing et Screening de candidats techniques
+- ✅ Évaluation de compétences IT
+- ✅ Placements en startups et grandes entreprises
+- ✅ Stratégies de recrutement innovantes
+
+### 💻 Développement & Automatisation
+- ✅ Solutions RH automatisées
+- ✅ Outils de recrutement
+- ✅ Platforms d'intégration talent
+- ✅ Gestion de données candidates
+
+---
+
+## 🛠️ Compétences Techniques
+
 ```
-JavaScript • TypeScript • Python • Java • SQL
+Langages: Python • JavaScript • SQL
+Outils RH: ATS • HRIS • Recruitment Platforms
+Automatisation: APIs • Webhooks • Integrations
+Databases: PostgreSQL • MongoDB
+Frontend: HTML • CSS • React
+Backend: Node.js • Python Django/Flask
 ```
 
-### Frontend
-```
-React • Vue.js • HTML5 • CSS3 • Responsive Design
-```
+---
 
-### Backend
-```
-Node.js • Express • REST APIs • Microservices
-```
+## 📌 Projets En Vedette
 
-### DevOps & Outils
-```
-Git • GitHub • Docker • CI/CD • GitHub Actions
-```
+### 🌟 Projet Professionnel
+**Spécialiste en Recrutement**
+- Placement de talents IT de haut niveau
+- Consultation en stratégie RH
+- Développement de solutions de recrutement innovantes
+- [GitHub](https://github.com/mareshounsounou-beep/maresprolinkon)
 
-### Bases de Données
-```
-PostgreSQL • MongoDB • MySQL • Firebase
-```
+### 🔧 Projets Techniques
+Solutions et outils pour optimiser le recrutement et la gestion des talents.
+- [Voir tous mes projets →](https://github.com/mareshounsounou-beep?tab=repositories)
 
-## 📌 Projets en Vedette
+---
 
-### 🌟 claude-code
-Une collaboration dans l'écosystème Anthropics axée sur l'intégration et l'innovation.
-- **Repo**: [anthropics/claude-code](https://github.com/anthropics/claude-code)
-- **Focus**: Solutions intelligentes et automatisées
+## 🌱 En Apprentissage Constant
 
-### 💼 Mes Projets Personnels
-Explorez mes autres projets et contributions sur mon profil!
+- 🤖 Intelligence Artificielle appliquée au recrutement
+- 📊 Data Analytics pour HR
+- ☁️ Cloud Solutions pour RH
+- 🔐 Cybersécurité dans la gestion des données candidates
 
-## 🌱 Actuellement en Apprentissage
+---
 
-- 🔬 Patterns avancés de conception système
-- ☁️ Architecture cloud et stratégies de déploiement
-- 🤖 Technologies émergentes et frameworks innovants
-- 🧠 Intelligence Artificielle et Machine Learning
+## 🤝 Disponible Pour
 
-## 🎯 Domaines d'Expertise
+✅ **Collaborations** sur des projets tech/RH
+✅ **Consultations** en stratégie de recrutement
+✅ **Partnerships** pour solutions d'automatisation RH
+✅ **Contributions** à des projets open-source
+✅ **Networking** dans l'écosystème tech
 
-- ✅ Développement Full Stack
-- ✅ Architecture logicielle scalable
-- ✅ Optimisation de performance
-- ✅ Meilleures pratiques de codage
-- ✅ Gestion de projets techniques
+---
 
-## 💡 Disponible pour Collaborer
+## 🏆 Approche Professionnelle
 
-Je suis toujours enthousiaste à propos de:
-- 🔓 Contribuer à des projets open-source
-- 🤝 Collaborer sur des idées innovantes
-- 💭 Partage de connaissances et mentorat
-- 🏗️ Construire des solutions logicielles significatives
-- 🚀 Nouveaux défis technologiques
+> "Le meilleur match ne vient pas juste d'un bon CV, c'est une connexion entre les talents et les opportunités."
 
-## 📊 Statistiques GitHub
+### Mes Valeurs:
+- 🎯 **Excellence**: Qualité dans chaque placement
+- 🤝 **Transparence**: Communication claire et honnête
+- 🚀 **Innovation**: Utiliser la tech pour améliorer le recrutement
+- 👥 **Impact Humain**: Créer des matchs durables
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mareshounsounou-beep&show_icons=true&theme=radical&hide_border=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshounsounou-beep&layout=compact&theme=radical&hide_border=true)
+## 📊 Statistiques & Présence
 
-## 🔗 Me Contacter
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mareshounsounou-beep&show_icons=true&theme=professional&hide_border=true)
 
-- **GitHub**: [@mareshounsounou-beep](https://github.com/mareshounsounou-beep)
-- **Email**: mareshounsounou@gmail.com
-- **Location**: 🌍 Connecté globalement
+---
 
-## 🏆 Philosophie & Valeurs
+## 🔗 Me Contacter & Connecter
 
-> "Le code n'est pas seulement pour les machines, c'est pour les humains qui le maintiennent."
+| Plateforme | Lien |
+|-----------|------|
+| **Email** | [mareshounsounou@gmail.com](mailto:mareshounsounou@gmail.com) |
+| **GitHub** | [@mareshounsounou-beep](https://github.com/mareshounsounou-beep) |
+| **Localisation** | 🌍 Global |
 
-Je crois en:
-- 📖 L'importance du code lisible et documenté
-- 🔄 L'amélioration continue et l'itération
-- 👥 La collaboration et l'entraide
-- 🎓 La connaissance partagée et l'apprentissage pair
+### 💬 Travaillons Ensemble!
 
-## 💬 Parlons!
+Que ce soit pour:
+- 💼 Une collaboration RH-Tech
+- 🔗 Un partenariat professionnel
+- 📧 Une opportunité intéressante
+- 🤝 Simplement discuter tech & recrutement
 
-N'hésitez pas à me contacter si vous voulez:
-- 🤝 Collaborer sur un projet
-- 💻 Discuter de technologie et de développement
-- 📧 Simplement me saluer!
-
-Je suis toujours ouvert aux nouvelles opportunités et aux conversations enrichissantes.
+**N'hésitez pas à me contacter!** Je réponds rapidement et j'adore les conversations productives.
 
 ---
 
 <div align="center">
 
-### ⭐ Si mes projets vous intéressent, n'hésitez pas à leur donner une étoile! 🙏
+### ⭐ Si mes projets vous intéressent, donnez-leur une étoile! 🙌
 
-**Merci de visiter mon profil. Happy Coding!** 🚀
+**Merci de votre visite. Let's connect & create impact together!** 🚀
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=mareshounsounou-beep.mareshounsounou-beep)](https://github.com/mareshounsounou-beep)
+[![Profile views](https://visitor-badge.glitch.me/badge?page_id=mareshounsounou-beep.mareshounsounou-beep)](https://github.com/mareshounsounou-beep)
 
 </div>
+
+---
+
+*Dernière mise à jour: Mai 2026 | Profile professionnel optimisé* ✨
